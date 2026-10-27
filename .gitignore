@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+data/FIRE-SMOKE-DATASET/
+outputs/resized_images/
+.DS_Store
+*/.DS_Store/*
